@@ -2,6 +2,6 @@
 streamlit
 torch
 torchvision
-timm==0.6.12
+timm==0.9.16
 numpy
 pillow
